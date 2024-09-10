@@ -1,2 +1,2 @@
 # tfm
-Repositorio con material del trabaja final de magister en Bio Informatica
+Repositorio con material del trabajo final de magister en BioInformática
